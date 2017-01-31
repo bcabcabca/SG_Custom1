@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1485191316692" stop="1485191342498" version="1.4.6">
+    <name>Default Suite</name>
+    <title>Default Suite : sigrid_custom[]</title>
+    <test-cases>
+        <test-case start="1485191340193" stop="1485191342429" status="passed">
+            <name>isNewProjectCreated</name>
+            <description type="text">Test verifies notifications to manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="D-6"/>
+                <label name="story" value="Story 5"/>
+                <label name="feature" value="Notification"/>
+                <label name="host" value="DESKTOP-HH9GE9S"/>
+                <label name="thread" value="8708@DESKTOP-HH9GE9S.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

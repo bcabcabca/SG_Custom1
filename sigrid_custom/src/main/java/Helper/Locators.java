@@ -1,4 +1,4 @@
-package Helper;
+package helper;
 
 import org.openqa.selenium.By;
 

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1484822144455" stop="1484822224284" version="1.4.6">
+    <name>Default Suite</name>
+    <title>Default Suite : sigrid_custom[]</title>
+    <test-cases>
+        <test-case start="1484822159235" stop="1484822162795" status="passed">
+            <name>isUserLoggedIn[admi.sigrid@gmail.com,123]</name>
+            <description type="text">Test verifies login with multiple users</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="L-1"/>
+                <label name="story" value="Story 1"/>
+                <label name="feature" value="Login"/>
+                <label name="host" value="DESKTOP-HH9GE9S"/>
+                <label name="thread" value="13056@DESKTOP-HH9GE9S.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1484822178547" stop="1484822192682" status="passed">
+            <name>isUserLoggedIn[designer.sigrid@gmail.com,123]</name>
+            <description type="text">Test verifies login with multiple users</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="L-1"/>
+                <label name="story" value="Story 1"/>
+                <label name="feature" value="Login"/>
+                <label name="host" value="DESKTOP-HH9GE9S"/>
+                <label name="thread" value="13056@DESKTOP-HH9GE9S.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1484822220837" stop="1484822224254" status="passed">
+            <name>isUserLoggedIn[manager.sigrid@gmail.com,123]</name>
+            <description type="text">Test verifies login with multiple users</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="L-1"/>
+                <label name="story" value="Story 1"/>
+                <label name="feature" value="Login"/>
+                <label name="host" value="DESKTOP-HH9GE9S"/>
+                <label name="thread" value="13056@DESKTOP-HH9GE9S.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
